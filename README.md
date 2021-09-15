@@ -23,4 +23,4 @@ starts from 13-sep-2021 to 02-oct-2021
 - Advantages 
 - Pandas Series
 - Series Indexing and Slicing
-- - recorded session : [Link]
+- - recorded session : [Link](https://transcripts.gotomeeting.com/#/s/57d56e7f314fb29affa4626784045706571b3d2e78b26d78ae1cefe431d47a9f)
