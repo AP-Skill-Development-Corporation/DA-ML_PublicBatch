@@ -24,3 +24,11 @@ starts from 13-sep-2021 to 02-oct-2021
 - Pandas Series
 - Series Indexing and Slicing
 - - recorded session : [Link](https://transcripts.gotomeeting.com/#/s/57d56e7f314fb29affa4626784045706571b3d2e78b26d78ae1cefe431d47a9f)
+
+## Day4 
+- Pandas DataFrame
+- Dataframe Indexing (loc, iloc )
+- Sorting ( sort by index , sort by value)
+- File reading (csv, excel )
+- Merging different Dataframes
+- Recorded Session : [Link]
