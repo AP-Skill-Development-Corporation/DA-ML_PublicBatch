@@ -31,4 +31,8 @@ starts from 13-sep-2021 to 02-oct-2021
 - Sorting ( sort by index , sort by value)
 - File reading (csv, excel )
 - Merging different Dataframes
-- Recorded Session : [Link]
+- Recorded Session : [Link](https://transcripts.gotomeeting.com/#/s/a243576ee14d99b0c6c822cb356570862e1315f48d51817076c629ba876ea7a5)
+
+
+##Day5
+- Recorded session : [Link](https://transcripts.gotomeeting.com/#/s/17f0b3e33b1e34d02f28af3625fd683e11d79fd8dc2f8f73c932c5064884e07f)
